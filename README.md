@@ -1,0 +1,3 @@
+# mall-customer-clustering
+
+Dataset taken from https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data, the reason for choosing this dataset is also related to the enrichment course I took in Information Systems, namely Customer Relationship Management (CRM). Hopefully the results of this clustering can help understand customer behavior and provide appropriate recommendations. Code entirely from me and some syntax help from ChatGPT.
